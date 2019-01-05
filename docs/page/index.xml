@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    <link>https://springnoticias.io/page/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Jan 2019 17:23:09 -0600</lastBuildDate>
+    
+	<atom:link href="https://springnoticias.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datos de contacto</title>
+      <link>https://springnoticias.io/page/contacto/</link>
+      <pubDate>Sat, 05 Jan 2019 17:23:09 -0600</pubDate>
+      
+      <guid>https://springnoticias.io/page/contacto/</guid>
+      <description>Si tienes comentario o cuestiones, por favor contáctame por medio de mensaje directo en Twitter DM o por email:
+   Mark en Twitter
+  mark@losheckler.com
+  mark.heckler@gmail.com
+   </description>
+    </item>
+    
+  </channel>
+</rss>

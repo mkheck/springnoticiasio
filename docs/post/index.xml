@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://springnoticias.io/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Dec 2018 15:25:17 -0600</lastBuildDate>
+    
+	<atom:link href="https://springnoticias.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring noticias en español, 11 de diciembre 2018</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-11-de-diciembre-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 15:25:17 -0600</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-11-de-diciembre-2018/</guid>
+      <description>Bienvenidos todos a la edición navidad de Spring Noticias en Español!!
+ Como siempre, envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   Me gusta este artículo por Profesor P sobre como personalizar salidas de códigos HTTP en Spring Boot
+  Si no usas Spring Cloud para tus microservicios en la nube, por qué no?</description>
+    </item>
+    
+    <item>
+      <title>Spring noticias en español, 14 de noviembre 2018</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-14-de-noviembre-2018/</link>
+      <pubDate>Wed, 14 Nov 2018 15:25:03 -0600</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-14-de-noviembre-2018/</guid>
+      <description>Bienvenidos a todos a la cuarta edición de Spring Noticias en Español!!
+ Como siempre, envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta cuarta edición, aquí tienes unos artículos muy interesantes   Esta explicación rápida y útil por Eddú Meléndez nos introduce a MockRestServiceServer y como usarlo con RestTemplate en nuestras pruebas unidades: Test RestTemplate haciendo uso de MockRestServiceServer</description>
+    </item>
+    
+    <item>
+      <title>Spring Noticias en español, 30 de octubre 2018</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-30-de-octubre-2018/</link>
+      <pubDate>Tue, 30 Oct 2018 12:28:48 -0600</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-30-de-octubre-2018/</guid>
+      <description>Bienvenidos a todos a la tercera edición de Spring Noticias en Español! Y también bienvenidos a la casa nueva de SNES en la red: SpringNoticias.io.
+ Espero que te guste el sitio, estoy planeando muchas mejoras en las semanas y meses que vienen. 😃
+ Como siempre, envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Aquí tienes unos artículos muy interesantes   Esta serie de introducción a Spring Boot nos viene de un miembro muy activo en la comunidad de Spring, Eddú Meléndez:</description>
+    </item>
+    
+    <item>
+      <title>Spring noticias en español, 16 de octubre 2018</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-16-de-octubre-2018/</link>
+      <pubDate>Tue, 16 Oct 2018 15:05:49 -0600</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-16-de-octubre-2018/</guid>
+      <description>Bienvenidos a todos a la segunda edición de Spring Noticias en Español!!
+ Como siempre, envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Aquí tienes unos artículos muy interesantes   Este artículo (en dos partes!) combina dos amores míos: Spring Boot y Kotlin! Otra tutorial excelente por Profesor P sobre crear una aplicacion CRUD con REST en Kotlin y Spring Boot:</description>
+    </item>
+    
+  </channel>
+</rss>
