@@ -1,0 +1,40 @@
+---
+title: "Spring noticias en español, 11 de diciembre 2018"
+date: 2018-12-11T15:25:17-06:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos todos a la edición navidad de Spring Noticias en Español!!
+
+Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Me gusta este artículo por link:https://twitter.com/chuchip[Profesor P] sobre como link:http://www.profesor-p.com/2018/11/20/personalizar-codigo-http-en-spring-boot/[personalizar salidas de códigos HTTP en Spring Boot]
+
+* Si no usas link:https://spring.io/projects/spring-cloud/[Spring Cloud] para tus microservicios en la nube, *por qué no???* 😉 Este artículo (tambien por link:https://twitter.com/chuchip[Profesor P]) describe como implementar link:http://www.profesor-p.com/2018/12/10/servidor-configuraciones-usando-spring-cloud/[servidor configuraciones usando Spring Cloud]
+
+* Si usas el IDE link:https://netbeans.apache.org/[NetBeans] para desarrollar tus apps de Spring, es posible que encontrarás muy útil otro artículo por link:https://twitter.com/chuchip[Profesor P] como link:http://www.profesor-p.com/2018/08/27/instalar-plugin-spring-boot-con-netbeans-9-en-ubuntu-18-04/[instalar plugin Spring Boot con NetBeans 9 en Ubuntu 18.04]
+
+* Wauw! Este serie (de 10 partes!) de tutoriales por link:https://twitter.com/chuucksc[Carlos Salazar] en link:https://twitter.com/CodesoltBlog[el blog Codesolt] sobre Spring Boot+Spring MVC tiene mucha información, echa un vistazo aquí: link:https://codesolt.com/tutoriales/spring-boot-web/temario/[Spring Boot Web – Temario (Serie de 10 tutoriales)]. Por tu conveniencia, aquí están los componentes:
+** link:https://codesolt.com/tutoriales/spring-boot-web/spring-initializr/[Spring Boot Web 1/10 – Iniciando tu proyecto con Spring Initializr]
+** link:https://codesolt.com/tutoriales/spring-boot-web/h2-embebida/[Spring Boot Web 2/10 – Base de datos H2 embebida]
+** link:https://codesolt.com/tutoriales/spring-boot-web/jpa/[Spring Boot Web 3/10 – Accediendo a tu base de datos con JPA]
+** link:https://codesolt.com/tutoriales/spring-boot-web/oauth2-sso/[Spring Boot Web 4/10 – Configuración de OAUTH2 SSO]
+** link:https://codesolt.com/tutoriales/spring-boot-web/web-controllers/[Spring Boot Web 5/10 – Controladores web]
+** link:https://codesolt.com/tutoriales/spring-boot-web/thymeleaf/[Spring Boot Web 6/10 – Thymeleaf]
+** link:https://codesolt.com/tutoriales/spring-boot-web/webjars/[Spring Boot Web 7/10 – Webjars]
+** link:https://codesolt.com/tutoriales/spring-boot-web/manejo-errores/[Spring Boot Web 8/10 – Manejo de errores]
+** link:https://codesolt.com/tutoriales/spring-boot-web/logout/[Spring Boot Web 9/10 – Logout]
+** link:https://codesolt.com/tutoriales/spring-boot-web/empaquetamiento/[Spring Boot Web 10/10 – Empaquetamiento]
+
+* Sé que te gustará esta exploración por link:https://twitter.com/gasper_lf[Lewis Florez] de sus experiencias link:https://medium.com/@gasper_lf/jugando-con-javascript-java-8-y-spring-reactor-a6d1c7c5698f[jugando con javascript, java 8 y spring reactor]
+
+* Y una mención especial: mil gracias a Mirza Yael por su ayuda en preparar cada vez estos anuncios. Ella me ayuda MUCHO. 😊
+
+Es todo por ahora y por 2018!
+
+== En resumen
+
+Como reflejamos en este año y contemplamos el año que viene, me dejen desearles a ustedes felicidad, amistad, y muchos proyectos interesantes. 🙂 Hasta la próxima edición (y el próximo año)!

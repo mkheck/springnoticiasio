@@ -1,0 +1,45 @@
+---
+title: "Spring Noticias en español, 30 de octubre 2018"
+date: 2018-10-30T12:28:48-06:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos a todos a la tercera edición de Spring Noticias en Español! Y también bienvenidos a la casa nueva de SNES en la red: *SpringNoticias.io*.
+
+Espero que te guste el sitio, estoy planeando muchas mejoras en las semanas y meses que vienen. 😃
+
+Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Aquí tienes unos artículos muy interesantes
+
+* Esta serie de introducción a Spring Boot nos viene de un miembro muy activo en la comunidad de Spring, link:https://twitter.com/EdduMelendez[Eddú Meléndez]:
+** link:http://blog.eddumelendez.me/2016/09/introduccion-a-spring-boot/[Introducción a Spring Boot]
+** link:http://blog.eddumelendez.me/2016/09/empezando-con-spring-boot/[Empezando con Spring Boot]
+** link:http://blog.eddumelendez.me/2016/09/empezando-con-spring-boot-cli/[Empezando con Spring Boot CLI]
+
+* Este artículo por link:https://twitter.com/chuchip[Profesor P] demuestra como implementar seguridad en tu aplicación de Spring Boot con Spring Security: link:http://www.profesor-p.com/2018/10/17/seguridad-web-en-spring-boot/[Seguridad WEB en Spring Boot]
+
+* Otro artículo muy útil que extiende el tema de seguridad (tambien por Profesor P!) describe detalladamente como incluir capacidades de seguridad OAuth2 en tu app de Spring Boot: link:http://www.profesor-p.com/2018/10/18/securizando-servicios-rest-con-oauth2-en-springboot/[Securizando servicios REST con Oauth2 en SpringBoot]
+
+* Sí usas link:http://cxf.apache.org/[Apache CXF] para crear servicios de web, podrías encontrar este útil: link:https://proitcsolution.com.ve/ws-security-con-signing-usando-spring-boot-y-apache-cxf/[WS-Security con signing usando Spring Boot y Apache CXF]
+
+* Otro artículo interesante de nuestros amigos de ProITCSolution es este describiendo link:https://proitcsolution.com.ve/inyeccion-de-dependencias-spring/[tipos de inyección de dependencias con Spring]
+
+* Este video por link:https://twitter.com/jlbugarin[Jose Luis Bugarin] también incluye un enlace al repositorio de código y introduce el muy útil link:https://www.consultorjava.com/wp/spring-boot-actuator/[Spring Boot Actuator]
+
+* Aquí tenemos otro por link:https://twitter.com/chuchip[Profesor P] sobre usando link:https://projects.spring.io/spring-webflow/[Spring Web Flow] para implementar flujos de ejecución en tu aplicación web!: link:http://www.profesor-p.com/2018/10/29/spring-webflow-con-jsp-configuracion/[Spring WebFlow con JSP – Configuración]
+
+== En otras noticias importantes
+
+* El proyecto MUY útil de Spring Boot Trampoline por https://twitter.com/ErniCheGevara[Ernest Ortuño] ahora tiene toda la información de como usarlo aquí en español!: https://github.com/ErnestOrt/Trampoline/wiki/Wiki-Trampoline:-Espa%C3%B1ol[Wiki Trampoline: Español]
+
+== En resumen
+
+Es todo por ahora! Pero si te gustaría ver tus proyectos/noticias en este boletín y ayudar tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos! Hasta la próxima edición...

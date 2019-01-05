@@ -1,0 +1,60 @@
+baseURL = "https://springnoticias.io/"
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "springnoticias-io"
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+publishDir      = "docs"
+
+[params]
+  title       = ""
+  subtitle    = ""
+  copyright   = "© 2019"
+
+  cover       = "img/SpringNoticiasSiteHeader.png"
+  description = "Tu fuente de noticias de todas cosas de Spring!"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "mkheck"
+  fbName = "springnoticias"
+  githubName = "mkheck"
+  linkedinName = "markheckler"
+  mediumName = ""
+
+  logo = ""
+  orgName = "HM"
+  orgWebsite = "https://www.thehecklers.com"
+  orgDescription = "Connecting code to demonstrable business value"
+
+  showSupport = true
+
+  author = "Mark Heckler"
+  authorAvatar = "img/MarkHecklerProfilePic.jpg"
+  authorLocation = "St. Louis, San Francisco, Hell's Kitchen, Gallifrey"
+  authorWebsite = "https://thehecklers.com"
+  authorDescription = "Científico de la computación y desarollador"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Contacto"
+  url = "/page/contacto/"
+  weight = 180
+
+

@@ -1,0 +1,32 @@
+---
+title: "Spring noticias en español, 14 de noviembre 2018"
+date: 2018-11-14T15:25:03-06:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos a todos a la cuarta edición de Spring Noticias en Español!!
+
+Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta cuarta edición, aquí tienes unos artículos muy interesantes
+
+* Esta explicación rápida y útil por link:https://twitter.com/EdduMelendez[Eddú Meléndez] nos introduce a `MockRestServiceServer` y como usarlo con `RestTemplate` en nuestras pruebas unidades: link:http://blog.eddumelendez.me/2018/11/test-resttemplate-haciendo-uso-de-mockrestserviceserver/[Test RestTemplate haciendo uso de MockRestServiceServer]
+
+* Este artículo útil por link:https://twitter.com/chuchip[Profesor P] continua con el tema empezado en un artículo previo, como construir una app usando link:http://www.profesor-p.com/2018/10/30/spring-webflow-con-jsp/[Spring WebFlow con JSP]
+
+* Este artículo fue escrito por otro Java Champion, link:https://twitter.com/jamdiazdiaz[José Díaz], y nos introduce al link:https://axoniq.io/[Axon Framework] para CQRS ("Command Query Responsibility Segregation" en inglés), que así mismo se construye con link:https://twitter.com/springboot[@SpringBoot]. El artículo contiene ejemplos escritos con Spring Boot (y el repo del código está adentro también): link:http://blog.joedayz.pe/2018/08/introduccion-axon-framework.html[INTRODUCCIÓN A AXON FRAMEWORK - PARTE 1]
+
+* Puedes apreciar este sumario de las nuevas características de Java 11 por link:https://twitter.com/ricardogeekk[@ricardogeekk]: link:https://ricardogeek.com/que-hay-de-nuevo-en-java-11/[¿Qué Hay De Nuevo En Java 11?]
+
+* Este video por link:https://twitter.com/Jovani_Aarzate[Jovani Aarzate] provee una introducción de microservicios y en particular los que usen link:https://spring.io/projects/spring-boot[Spring Boot] y link:https://spring.io/projects/spring-cloud/[Spring Cloud]: link:https://youtu.be/l-Os0WbWiCw[Qué son los Microservicios - Cápitulo #1]
+
+== En resumen
+
+Es todo por ahora! Pero si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos! Hasta la próxima edición...

@@ -1,0 +1,12 @@
+---
+title: "Datos de contacto"
+date: 2019-01-05T17:23:09-06:00
+draft: false
+image: 
+---
+
+Si tienes comentario o cuestiones, por favor contáctame por medio de mensaje directo en Twitter DM o por email:
+
+* link:https://www.twitter.com/mkheck[Mark en Twitter]
+* link:mailto:mark@losheckler.com[mark@losheckler.com]
+* link:mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
