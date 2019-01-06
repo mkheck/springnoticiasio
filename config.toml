@@ -16,7 +16,7 @@ publishDir      = "docs"
   cover       = "img/SpringNoticiasSiteHeader.png"
   description = "Tu fuente de noticias de todas cosas de Spring!"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-102227903-2"
   customCSS = []
   RSSLink = ""
 
