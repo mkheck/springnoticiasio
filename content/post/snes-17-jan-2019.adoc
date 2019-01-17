@@ -12,6 +12,8 @@ Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck
 == Para esta edición, aquí tienes unos artículos muy interesantes
 
 * Me encanta este artículo comprensivo sobre link:https://spring.io/projects/spring-cloud-config[Spring Cloud Config Server] por el link:https://twitter.com/chuchip[Profesor P] en link:http://www.profesor-p.com/2018/12/10/servidor-configuraciones-usando-spring-cloud/[Servidor configuraciones usando Spring Cloud]
+* Otro artículo interesante del link:https://twitter.com/chuchip[Profesor P] sobre link:https://spring.io/projects/spring-cloud-netflix[Spring Cloud Netflix] (y especialmente Eureka) es 
+link:http://www.profesor-p.com/2019/01/03/microservicios-distribuidos-con-eureka/[Microservicios distribuidos con Eureka]
 
 * Recientemente lo conocí a un programador y escritor se llama link:https://twitter.com/Cruizg93[Cristian Ruiz Gonzalez], tiene mucho que compartirnos! Aquí están algunos artículos (todos con videos!) para empezar, tendremos más de ellos en la próxima edición:
 ** Una introducción a Spring Boot: link:http://cristianruizblog.com/spring-boot-que-es-y-como-se-come/[Spring Boot – Que es? y como se come?]
