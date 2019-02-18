@@ -1,0 +1,33 @@
+---
+title: "Spring noticias en español, 20 de febrero 2019"
+date: 2019-02-20T07:45:53-06:00
+draft: true
+image: "img/SNES.png"
+---
+
+Bienvenidos todos a la edición de febrero de Spring Noticias en Español!
+
+Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+MH
+* Me encanta este artículo comprensivo sobre link:https://spring.io/projects/spring-cloud-config[Spring Cloud Config Server] por el link:https://twitter.com/chuchip[Profesor P] en link:http://www.profesor-p.com/2018/12/10/servidor-configuraciones-usando-spring-cloud/[Servidor configuraciones usando Spring Cloud]
+* Otro artículo interesante del link:https://twitter.com/chuchip[Profesor P] sobre link:https://spring.io/projects/spring-cloud-netflix[Spring Cloud Netflix] (y especialmente Eureka) es 
+link:http://www.profesor-p.com/2019/01/03/microservicios-distribuidos-con-eureka/[Microservicios distribuidos con Eureka]
+
+* Recientemente lo conocí a un programador y escritor se llama link:https://twitter.com/Cruizg93[Cristian Ruiz Gonzalez], tiene mucho que compartirnos! Aquí están algunos artículos (todos con videos!) para empezar, tendremos más de ellos en la próxima edición:
+** Una introducción a Spring Boot: link:http://cristianruizblog.com/spring-boot-que-es-y-como-se-come/[Spring Boot – Que es? y como se come?]
+** Sobre Spring Boot y Spring MVC con JSP: link:http://cristianruizblog.com/spring-boot-mvc-parte-1-usando-jsp/[Spring Boot 2 + MVC Parte 1| Usando JSP?]
+** Parte 2, sobre Spring Boot y Spring MVC con Thymeleaf, un excelente motor de plantillas: link:http://cristianruizblog.com/spring-boot-mvc-parte-2-usando-thymeleaf/[Spring Boot 2 + MVC Parte 2| Usando Thymeleaf]
+** Creando una aplicación CRUD con Spring Boot, Spring MVC, JPA, y H2: link:https://cristianruiz93.wordpress.com/2018/09/25/spring-boot-jpa-h2/[Spring Boot CRUD + MVC + JPA + H2 Parte 1]
+** Y parte 2 del artículo previo, con discusión de relaciones (de datos 😉): link:https://cristianruiz93.wordpress.com/2018/09/25/spring-boot-crud-mvc-jpa-h2-parte-2/[Spring Boot CRUD + MVC + JPA Relaciones 1:1 y \*:*]
+
+== En resumen
+
+Es todo por ahora, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
