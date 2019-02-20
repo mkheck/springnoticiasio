@@ -6,10 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Jan 2019 07:45:06 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 05:30:53 -0600</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, 20 de febrero 2019</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-febrero-2019/</link>
+      <pubDate>Wed, 20 Feb 2019 05:30:53 -0600</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-febrero-2019/</guid>
+      <description>Bienvenidos a la edición de febrero de Spring Noticias en Español!
+ Como siempre, envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   Me gusta este artículo sobre como usar Spring Boot con Apache Kafka por el estimado Profesor P en Mensajería con Kafka y Spring Boot
+  Otro excelente artículo sobre Spring Boot y Spring Data JPA también por el Profesor P es Queries avanzadas con JPA en Spring Boot</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 17 de enero 2019</title>
