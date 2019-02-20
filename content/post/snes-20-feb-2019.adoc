@@ -1,6 +1,6 @@
 ---
 title: "Spring noticias en español, 20 de febrero 2019"
-date: 2019-02-20T07:30:53-06:00
+date: 2019-02-20T05:30:53-06:00
 draft: false
 image: "img/SNES.png"
 ---
