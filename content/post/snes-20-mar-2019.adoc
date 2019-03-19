@@ -1,0 +1,32 @@
+---
+title: "Spring noticias en español, 20 de febrero 2019"
+date: 2019-03-20T02:30:53-05:00
+draft: true
+image: "img/SNES.png"
+---
+
+Bienvenidos a ESTA edición, la de marzo, de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* El link:https://twitter.com/chuchip[Profesor P] consistentemente produce excelente información! En este artículo, nos dice del link:http://www.profesor-p.com/2019/03/01/uso-de-perfiles-en-testing-en-spring-boot/[Uso de perfiles en testing en Spring Boot]
+
+* También del profesor tenemos información muy útil para cualquier desarrollador que use Spring Boot 1.5.x sobre como usar link:http://www.profesor-p.com/2019/03/16/zuul-para-redirigir-peticiones-rest-en-spring-boot/[Zuul para redirigir peticiones REST en Spring Boot]
+
+* Aquí tenemos una presentación chida por link:https://twitter.com/chuucksc[Carlos Salazar] del Meetup de febrero del link:http://www.javamexico.org/[JavaMéxico]:
+** Los slides: link:https://www.slideshare.net/CarlosSalazar192/spring-webflux-128402332[REST con Spring 5 (WebFlux)]
+** El video: link:https://www.youtube.com/watch?v=DZ6TYjJm5X8[Reactive API con Spring WebFlux]
+
+* Y por más información sobre la anotación *@NonNull* en Spring Framework 5, tenemos este artículo de link:https://twitter.com/ricardogeekk[@ricardogeekk]: link:https://ricardogeek.com/nonnull-la-nueva-anotacion-de-spring-5/[@NonNull La Nueva Anotación de Spring 5]
+
+== En resumen
+
+Es todo por ahora, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
