@@ -1,17 +1,17 @@
 ---
-title: "Spring noticias en español, 20 de febrero 2019"
-date: 2019-03-20T02:30:53-05:00
-draft: true
+title: "Spring noticias en español, 20 de marzo 2019"
+date: 2019-03-20T00:30:53-05:00
+draft: false
 image: "img/SNES.png"
 ---
 
-Bienvenidos a ESTA edición, la de marzo, de Spring Noticias en Español!!
+Bienvenidos a la edición de marzo de Spring Noticias en Español!!
 
 Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
 
 == Para esta edición, aquí tienes unos artículos muy interesantes
 
-* El link:https://twitter.com/chuchip[Profesor P] consistentemente produce excelente información! En este artículo, nos dice del link:http://www.profesor-p.com/2019/03/01/uso-de-perfiles-en-testing-en-spring-boot/[Uso de perfiles en testing en Spring Boot]
+* El link:https://twitter.com/chuchip[Profesor P] constantemente produce excelente información! En este artículo, nos dice del link:http://www.profesor-p.com/2019/03/01/uso-de-perfiles-en-testing-en-spring-boot/[Uso de perfiles en testing en Spring Boot]
 
 * También del profesor tenemos información muy útil para cualquier desarrollador que use Spring Boot 1.5.x sobre como usar link:http://www.profesor-p.com/2019/03/16/zuul-para-redirigir-peticiones-rest-en-spring-boot/[Zuul para redirigir peticiones REST en Spring Boot]
 
