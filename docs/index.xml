@@ -6,10 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Feb 2019 05:30:53 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 00:30:53 -0500</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, 20 de marzo 2019</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-marzo-2019/</link>
+      <pubDate>Wed, 20 Mar 2019 00:30:53 -0500</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-marzo-2019/</guid>
+      <description>Bienvenidos a la edición de marzo de Spring Noticias en Español!!
+ Como siempre (!), envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   El Profesor P constantemente produce excelente información! En este artículo, nos dice del Uso de perfiles en testing en Spring Boot
+  También del profesor tenemos información muy útil para cualquier desarrollador que use Spring Boot 1.</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 20 de febrero 2019</title>
