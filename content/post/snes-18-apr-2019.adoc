@@ -1,0 +1,67 @@
+
+---
+title: "Spring noticias en español, 18 de abril 2019"
+date: 2019-04-18T08:05:33-05:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos a la edición de abril 2019 de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* El link:https://twitter.com/chuchip[Profesor P] nos comparte este artículo sobre link:http://www.profesor-p.com/2019/03/25/accediendo-facilmente-a-los-datos-con-spring-rest-data/[Accediendo facilmente a los datos con Spring Rest Data].
+
+* También del profesor nos da otro artículo excelente que discuta link:http://www.profesor-p.com/2019/04/05/optimizando-consultas-con-hibernate/[Optimizando relaciones entre entidades en Hibernate] y como usar link:https://spring.io/projects/spring-boot[Spring Boot] para facilitar el proceso. Gracias Profesor!
+
+* Aquí está una serie *muy interesante* de videos introductorios de link:https://twitter.com/mitocode[MitoCode] sobre diversos aspectos de link:https://spring.io/projects/spring-boot[Spring Boot]:
+
+** link:https://www.youtube.com/watch?v=ltA-mIYyxhY&list=PLvimn1Ins-40wR4PC-YtTQ5TKt3vRrVwl[La playlist entera]
+** link:https://youtu.be/ltA-mIYyxhY[Curso Spring Boot -  1 Introducción]
+** link:https://youtu.be/RyvP-GYe19s[Curso Spring Boot -  2 Initializr]
+** link:https://youtu.be/mCogBfNIFvg[Curso Spring Boot -  3 Consola]
+** link:https://youtu.be/sLY9umEahso[Curso Spring Boot -  4 Inyección de dependencias]
+** link:https://youtu.be/MC9BwnURnfg[Curso Spring Boot -  5 Qualifier]
+** link:https://youtu.be/elz3vXttR-Q[Curso Spring Boot -  6 Spring MVC Thymeleaf]
+** link:https://youtu.be/C3Xwu7wuYAo[Curso Spring Boot -  7 Spring Data (JPA) + Spring MVC]
+** link:https://youtu.be/RABN1tDBN4Q[Curso Spring Boot -  8 Servicios REST]
+** link:https://youtu.be/ksLYIavT2L0[Curso Spring Boot -  9 Spring Security]
+** link:https://youtu.be/zQjZFHo8eO4[Curso Spring Boot - 10 Spring Security Base Datos]
+** link:https://youtu.be/HMe5uxEJH94[Curso Spring Boot - 11 Heroku]
+** link:https://youtu.be/yAC1M-UFN68[Curso Spring Boot - 12 Java Full Stack]
+
+Disfrútalos!
+
+* En otras noticias, link:https://twitter.com/chuucksc[Carlos Salazar] ofreció un curso gratuito de Java para mujeres con interés en programación...y los resultados son impresionantes. Aquí están los detalles: link:https://codesolt.com/comunidad/equidad/graduacion-y-resultados-del-curso-gratuito-de-java-basico-para-mujeres/[Graduación y resultados del curso gratuito de Java básico para mujeres]
+
+Felicitaciones a estas mujeres y bienvenidas al campo loco (pero en buena manera) de código!
+
+* Bienvenido e este boletín mi querido amigo link:https://twitter.com/richvaldivieso[Richard Valdivieso] con este artículo interesante sobre link:https://tryfailtriumph.blogspot.com/2019/04/java-configurations.html[Java Configurations]!
+
+* Otro desarollador recién llegado a este boletín es link:https://twitter.com/ezmacias[Eze Macías] - bienvenido! Su artículo demuestra como convertir de JUnit 4 a 5 y link:https://somospnt.com/blog/48-como-usar-junit-5-con-spring-boot-2-1-x[Cómo usar JUnit 5 con Spring Boot 2.1.x].
+
+* Gracias a link:https://twitter.com/java_gdl[Java GDL] tenemos esta grabación del Meetup sobre programación reactiva. Aquí son los enlaces relevantes:
+
+** link:https://youtu.be/jVcvTW743CM[Grabación]
+** link:https://github.com/chrisom79/talks_code[1o repo de código]
+** link:https://github.com/chrisom79/reactive_requests[2o repo de código]
+
+* Este artículo completo sobre link:https://danielme.com/2019/04/09/spring-boot-actuator/[Spring Boot Actuator] nos viene de otro contribuidor nuevo, link:https://twitter.com/danielme_com[Daniel Medina] - gracias Daniel!
+
+* Y finalmente, gracias a la link:https://twitter.com/comunidadcode[Comunidad CODE] por invitarme compartir como construir pipelines reactivos con link:https://projectreactor.io/[el proyecto Reactor], link:https://www.rabbitmq.com/[RabbitMQ], y link:http://kafka.apache.org/[Apache Kafka]:
+
+** link:https://youtu.be/DfdlDuGONwk[Grabación]
+** link:https://speakerdeck.com/mkheck/construyendo-pipelines-reactivos[Slides]
+** link:https://github.com/mkheck/building-reactive-pipelines[Repositorio de código]
+
+== En resumen
+
+Wauw, que mes!! Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
