@@ -1,7 +1,7 @@
 
 ---
 title: "Spring noticias en español, 18 de abril 2019"
-date: 2019-04-18T08:05:33-05:00
+date: 2019-04-18T08:05:01-05:00
 draft: false
 image: "img/SNES.png"
 ---
