@@ -1,0 +1,43 @@
+---
+title: "Spring noticias en español, 20 de mayo 2019"
+date: 2019-05-20T06:50:05-05:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos otra vez a esta edición (de mayo 2019) de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* El link:https://twitter.com/chuchip[Profesor P] nos comparte muchos artículos, es una persona inquisitiva y generosa! Este mes nos entrega dos artículos más!
+
+** El primer es un excelente tratamiento de link:http://www.profesor-p.com/2019/04/18/beans-avanzados-en-spring/[beans avanzados en Spring]
+** Y el segundo también cubre un tema muy interesante: link:http://www.profesor-p.com/2019/05/12/cacheando-datos-en-spring-boot/[Cacheando resultados con Spring Boot]. Gracias Profesor!
+
+* link:https://twitter.com/Jovani_Aarzate[Jovani Aarzate] escribió este artículo exhaustivo sobre link:https://medium.com/@jovaniaarzate/apis-y-microservicios-en-empresas-monol%C3%ADticas-deploy-y-escalamiento-de-microservicios-con-e6950510c751[APIs y MicroServicios en Empresas Monolíticas — Deploy y escalamiento de microservicios con Kubernetes #7]. Creó microservicios con link:https://spring.io/projects/spring-boot[Spring Boot] y los desplegó a K8s.
+
+* Acabo de enterarme de una colleción de videos (con más en progreso!) de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] sobre diversos aspectos de link:https://spring.io/projects/spring-framework[Spring Framework] y link:https://spring.io/projects/spring-boot[Spring Boot]:
+
+** link:https://youtu.be/lUChqse1cgQ[¿Qué es Spring Framework?]
+** link:https://youtu.be/s_jTY6GFhzg[Configuración Spring Framework]
+** link:https://youtu.be/nx0ZN16x0OM[Annotation Config vs Component Scan]
+** link:https://youtu.be/h_5T4FPtqI8[¿Que es Spring JDBC?]
+** link:https://youtu.be/VdHWDg43HLg[Spring JDBC en Acción]
+** link:https://youtu.be/jjm8nyHBrNA[Spring JDBC Operaciones Batch]
+** link:https://youtu.be/iHStIu2cGNk[¿Que es Spring MVC?]
+** link:https://youtu.be/eqPb1xsfXl0[Configuración Spring MVC]
+** link:https://youtu.be/KBXNAn7o49U[@RestController Spring MVC]
+
+Con más en los próximos meses!
+
+== En resumen
+
+Wauw, que mes!! Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
