@@ -6,10 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Apr 2019 08:05:01 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 06:50:05 -0500</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, 20 de mayo 2019</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-mayo-2019/</link>
+      <pubDate>Mon, 20 May 2019 06:50:05 -0500</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-mayo-2019/</guid>
+      <description>Bienvenidos otra vez a esta edición (de mayo 2019) de Spring Noticias en Español!!
+ Como siempre (!), envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   El Profesor P nos comparte muchos artículos, es una persona inquisitiva y generosa! Este mes nos entrega dos artículos más!
+  El primer es un excelente tratamiento de beans avanzados en Spring</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 18 de abril 2019</title>
