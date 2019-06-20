@@ -1,7 +1,7 @@
 ---
 title: "Spring noticias en español, 20 de junio 2019"
 date: 2019-06-20T09:12:54+02:00
-draft: true
+draft: false
 image: "img/SNES.png"
 ---
 
