@@ -1,0 +1,59 @@
+---
+title: "Spring noticias en español, 20 de junio 2019"
+date: 2019-06-20T09:12:54+02:00
+draft: true
+image: "img/SNES.png"
+---
+
+Bienvenidos otra vez la edición de junio de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Para continuar con la colleción de videos recientemente compartida conmigo de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] sobre diversos aspectos de link:https://spring.io/projects/spring-framework[Spring Framework] y link:https://spring.io/projects/spring-boot[Spring Boot], aquí tienes unos más:
+
+** link:https://youtu.be/TdXZIXqRGU8[¿Qué es un ORM?]
+** link:https://youtu.be/_dYb7YC2yZI[¿Qué es Spring Data?]
+** link:https://youtu.be/Si8LroEzAc8[Ejemplo Práctico con Spring Data]
+** link:https://youtu.be/D9fg-Nxisl8[¿Qué es Spring Boot?]
+** link:https://youtu.be/pYpTga7edo4[Ejemplo práctico Spring Data REST]
+** link:https://youtu.be/DgBh1UYbXeA[¿Qué es Spring Roo?]
+** link:https://youtu.be/nf6Nl91D_Ew[Ejemplo Práctico Spring Roo]
+** link:https://youtu.be/wBuN5TuEtLw[¿Qué es Spring Batch?]
+
+¡Esperen que vienen muchos más!
+
+* Bienvenido este mes a link:https://twitter.com/josdem[def user='josdem'] con _muchas_ contribuciones de compartir con la comunidad, ¡vamonos!
+
+** Aquí está un artículo sobre link:https://josdem.io/techtalk/spring/spring_webflux_basics_es/[Empezando con Spring Webflux] que contiene una introducción excelente a programación reactiva con Spring WebFlux+Project Reactor.
+
+** Próximamente, un buen artículo sobre link:https://josdem.io/techtalk/spring/spring_webflux_server_es/[Spring Webflux el lado del Servidor] que examina más el uso de WebFlux en el servidor/la nube.
+
+** Otro artículo, esta vez del perspectivo del client: link:https://josdem.io/techtalk/spring/spring_webflux_client_es/[Spring Webflux el lado del Cliente]. ¡Me gusta mucho el WebClient y como él lo demuestra porque WebClient reemplaza RestTemplate y funciona bien con servicios de bloqueo y no bloqueo!
+
+** La seguridad es *muy* importante, y en este artículo José Luis discute y demuestra exactamente eso (en el contexto reactivo de WebFlux, por supuesto!): link:https://josdem.io/techtalk/spring/spring_webflux_security_es/[Seguridad con Spring Webflux]
+
+** Y con más detalles de autenticación y autorización (¡y uso de MongoDB como repositorio de usuarios también!) es el último artículo de José Luis (de este mes, ya que vienen muchos más, ¡claro!): link:https://josdem.io/techtalk/spring/spring_webflux_security_database_es/[Seguridad con Spring Webflux y MongoDB]
+
+¡Gracias José Luis!
+
+* El link:https://twitter.com/chuchip[Profesor P] nos comparte este artículo muy interesante y completo sobre link:http://www.profesor-p.com/2019/06/13/estableciendo-filtros-en-spring/[Estableciendo filtros en Spring]. ¡Échale un vistazo!
+
+* Otro nuevo contribuyente este mes (¡bienvenido!) es link:https://twitter.com/danielme_com[Daniel Medina]. Daniel nos da dos artículos interesantes:
+
+** Aquí tenemos material sobre como crear un y cambiar eventos entre aplicaciones Spring: link:https://danielme.com/2019/06/02/spring-sistema-de-eventos/[Spring: Sistema de eventos]
+
+** Y con algo un poco más caprichoso y divertido - ¡no debemos estar estoicos todo el tiempo! - Daniel comparte este artículo sobre cambiando la startup banner de Spring Boot: link:https://danielme.com/2019/06/14/tips-spring-boot-banner-ascii-de-inicio/[Tips Spring : BOOT banner ASCII de inicio]
+
+Y eso, queridos amigos, es todo por este mes...¡wauw, que cosas buenas!
+
+== En resumen
+
+Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
