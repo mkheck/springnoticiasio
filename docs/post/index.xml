@@ -6,10 +6,21 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 May 2019 06:50:05 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 09:12:54 +0200</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, 20 de junio 2019</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-junio-2019/</link>
+      <pubDate>Thu, 20 Jun 2019 09:12:54 +0200</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-20-de-junio-2019/</guid>
+      <description>Bienvenidos otra vez la edición de junio de Spring Noticias en Español!!
+ Como siempre (!), envíame noticias de tus logros en @mkheck en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   Para continuar con la colleción de videos recientemente compartida conmigo de 4SoftwareDevelopers sobre diversos aspectos de Spring Framework y Spring Boot, aquí tienes unos más:</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 20 de mayo 2019</title>
