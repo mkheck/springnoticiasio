@@ -1,0 +1,54 @@
+---
+title: "Spring noticias en español, 23 de julio 2019"
+date: 2019-07-22T08:01:18-05:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos otra vez la edición de julio de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Este mes tenemos más artículos excelentes de link:https://twitter.com/josdem[José Morales] sobre muchos temas de Spring:
+
+** Empezamos con un artículo interesante sobre link:https://josdem.io/techtalk/spring/spring_boot_jms_es/[usando JMS en Spring Webflux], con el repositorio de código aquí: https://github.com/josdem/spring-boot-jms.
+
+** Continuamos con artículos muy útiles (¡con código!) sobre varios aspectos de Spring WebFlux y Project Reactor:
+
+*** link:https://josdem.io/techtalk/spring/spring_boot_sse_es/[Spring WebFlux y Server-sent Events], link:https://github.com/josdem/spring-boot-sse[con el repo]
+*** link:https://josdem.io/techtalk/spring/spring_boot_sse_client_es/[Spring WebFlux Server-sent Events el lado del Cliente], link:https://github.com/josdem/spring-boot-sse-client[con el repo]
+*** link:https://josdem.io/techtalk/spring/spring_webflux_modules_es/[Spring WebFlux Multi-Módulo], link:https://github.com/josdem/spring-boot-modules[con el repo]
+*** link:https://josdem.io/techtalk/spring/spring_webflux_cucumber_es/[Spring WebFlux y Cucumber], link:https://github.com/josdem/spring-webflux-cucumber[con el repo]
+
+¡Gracias José por compartirlos!
+
+* ¡Bienvenido a contribuidor nuevo a SNES, link:https://twitter.com/hansospina[Hans Ospina]! Hans nos da un artículo excelente que ayude con la meta de escribir link:https://hansospina.com/2019/07/04/tu-primera-aplicacion-web-en-java-con-springboot/[tu primera Aplicación Web en Java con SpringBoot]
+
+* Otro artículo muy interesante ha llegado de contribuidor link:https://twitter.com/cocoriv[Pablo Rivero] sobre
+link:https://somospnt.com/blog/71-spring-data-projections[Spring Data Projections]. ¡Echale un vistazo!
+
+* Para concluir (por ahora) la colleción de videos recientemente compartida conmigo de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] sobre diversos aspectos de link:https://spring.io/projects/spring-framework[Spring Framework] y link:https://spring.io/projects/spring-boot[Spring Boot], aquí tienes los restos (en este momento) de los videos:
+
+** link:https://youtu.be/sUYz5yZJBic[¿Necesitas generar un WAR con Spring Boot?]
+** link:https://youtu.be/5SW_lsPzNr0[Ejemplo práctico con Spring Batch]
+** link:https://youtu.be/8XFohnrtqIE[¿Cómo crear tareas automáticas con Spring Boot?]
+** link:https://youtu.be/SHs4sBFGkao[Procesos batch automáticos]
+** link:https://youtu.be/BmL_THqZLEA[Subir archivos al servidor con Spring Boot]
+** link:https://youtu.be/d3lM3w0bl3A[CRUD Spring Boot, Thymeleaf y Bootstrap Parte 1]
+** link:https://youtu.be/ba8arWqyTAw[CRUD Spring Boot, Thymeleaf y Bootstrap Parte 2]
+** link:https://youtu.be/8GqaysG8m6M[Ejemplo práctico Maven Profiles]
+** link:https://youtu.be/fJoZicPVuTI[¿Qué es Spring Security?]
+
+¡Buenos videos!
+
+== En resumen
+
+Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
