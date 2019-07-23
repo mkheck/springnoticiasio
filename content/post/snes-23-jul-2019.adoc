@@ -24,12 +24,12 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 
 ¡Gracias José por compartirlos!
 
-* ¡Bienvenido a contribuidor nuevo a SNES, link:https://twitter.com/hansospina[Hans Ospina]! Hans nos da un artículo excelente que ayude con la meta de escribir link:https://hansospina.com/2019/07/04/tu-primera-aplicacion-web-en-java-con-springboot/[tu primera Aplicación Web en Java con SpringBoot]
+* ¡Bienvenido a contribuidor nuevo a SNES, link:https://twitter.com/hansospina[Hans Ospina]! Hans nos da un artículo excelente que ayuda con la meta de escribir link:https://hansospina.com/2019/07/04/tu-primera-aplicacion-web-en-java-con-springboot/[tu primera Aplicación Web en Java con SpringBoot]
 
-* Otro artículo muy interesante ha llegado de contribuidor link:https://twitter.com/cocoriv[Pablo Rivero] sobre
+* Otro artículo muy interesante ha llegado del contribuidor link:https://twitter.com/cocoriv[Pablo Rivero] sobre
 link:https://somospnt.com/blog/71-spring-data-projections[Spring Data Projections]. ¡Echale un vistazo!
 
-* Para concluir (por ahora) la colleción de videos recientemente compartida conmigo de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] sobre diversos aspectos de link:https://spring.io/projects/spring-framework[Spring Framework] y link:https://spring.io/projects/spring-boot[Spring Boot], aquí tienes los restos (en este momento) de los videos:
+* Para concluir (por ahora) la coleción de videos recientemente compartida conmigo de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] sobre diversos aspectos de link:https://spring.io/projects/spring-framework[Spring Framework] y link:https://spring.io/projects/spring-boot[Spring Boot], aquí tienes los restos de los videos:
 
 ** link:https://youtu.be/sUYz5yZJBic[¿Necesitas generar un WAR con Spring Boot?]
 ** link:https://youtu.be/5SW_lsPzNr0[Ejemplo práctico con Spring Batch]
