@@ -11,6 +11,8 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 
 == Para esta edición, aquí tienes unos artículos muy interesantes
 
+* Comenzamos con un video _muy_ interesante de link:https://twitter.com/isc_abel[Abel Fresnillo] sobre como dar tus link:https://youtu.be/tbo3av73sj8[primeros pasos con Spring Boot y Redis].
+
 * Este mes tenemos más artículos excelentes de link:https://twitter.com/josdem[José Morales] sobre muchos temas de Spring:
 
 ** Empezamos con un artículo interesante sobre link:https://josdem.io/techtalk/spring/spring_boot_jms_es/[usando JMS en Spring Webflux], con el repositorio de código aquí: https://github.com/josdem/spring-boot-jms.
