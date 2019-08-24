@@ -1,6 +1,6 @@
 ---
 title: "Spring noticias en español, 26 de Agosto 2019"
-date: 2019-08-23T07:50:51-05:00
+date: 2019-08-26T07:50:51-05:00
 draft: false
 image: "img/SNES.png"
 ---
