@@ -1,7 +1,7 @@
 ---
 title: "Spring noticias en español, 26 de Agosto 2019"
 date: 2019-08-23T07:50:51-05:00
-draft: true
+draft: false
 image: "img/SNES.png"
 ---
 
@@ -13,7 +13,7 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 
 * Bienvenidos otra vez a mi amigo y hermano link:https://www.facebook.com/richard.valdivieso[Richard Valdivieso] con este discusión sobre link:https://tryfailtriumph.blogspot.com/2019/07/springboot-conversion.html[como convertir tu aplicación Spring a una de Spring Boot]. ¡Chécalo!
 
-* Con otro video excelente viene el brillante link:https://twitter.com/isc_abel[Abel Fresnillo], esta vez sobre link:https://www.youtube.com/watch?v=JUctyNaSUqU[seguridad con Spring Boot y Okta]. La seguridad es crítica, y link:https://spring.io/projects/spring-security[Spring Security] es una herramienta _muy_ poderosa.
+* Con otro video excelente viene el brillante link:https://twitter.com/abel_fresnillo[Abel Fresnillo], esta vez sobre link:https://www.youtube.com/watch?v=JUctyNaSUqU[seguridad con Spring Boot y Okta]. La seguridad es crítica, y link:https://spring.io/projects/spring-security[Spring Security] es una herramienta _muy_ poderosa.
 
 * El link:https://twitter.com/chuchip[Profesor P] regresa y nos comparte unos artículos muy interesantes!
 

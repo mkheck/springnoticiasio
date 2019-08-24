@@ -35,9 +35,9 @@ publishDir      = "docs"
 
   author = "Mark Heckler"
   authorAvatar = "img/MarkHecklerProfilePic.jpg"
-  authorLocation = "St. Louis, San Francisco, Hell's Kitchen, Gallifrey"
+  authorLocation = "St. Louis, San Francisco, Gotham"
   authorWebsite = "https://thehecklers.com"
-  authorDescription = "Científico de la computación y desarollador"
+  authorDescription = "Científico de la computación y desarrollador"
 
   pageNotFoundTitle = "404 - Page not found"
 
