@@ -1,0 +1,52 @@
+---
+title: "Spring noticias en español, 26 de Agosto 2019"
+date: 2019-08-23T07:50:51-05:00
+draft: true
+image: "img/SNES.png"
+---
+
+Bienvenidos otra vez la edición de *Agosto* de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], link:https://twitter.com/springnoticias[@springnoticias en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Bienvenidos otra vez a mi amigo y hermano link:https://www.facebook.com/richard.valdivieso[Richard Valdivieso] con este discusión sobre link:https://tryfailtriumph.blogspot.com/2019/07/springboot-conversion.html[como convertir tu aplicación Spring a una de Spring Boot]. ¡Chécalo!
+
+* Con otro video excelente viene el brillante link:https://twitter.com/isc_abel[Abel Fresnillo], esta vez sobre link:https://www.youtube.com/watch?v=JUctyNaSUqU[seguridad con Spring Boot y Okta]. La seguridad es crítica, y link:https://spring.io/projects/spring-security[Spring Security] es una herramienta _muy_ poderosa.
+
+* El link:https://twitter.com/chuchip[Profesor P] regresa y nos comparte unos artículos muy interesantes!
+
+** En una serie de tres artículos, el profesor explica como hacer peticiones HTTP con Spring, explorando la clase RestTemplate y diferentes maneras de usarla:
+
+*** link:http://www.profesor-p.com/2019/08/03/trabajando-con-la-clase-resttemplate/[La clase RestTemplate]
+
+*** link:http://www.profesor-p.com/clase-resttemplate-2/[La Clase RestTemplate - 2]
+
+*** link:http://www.profesor-p.com/clase-resttemplate-3/[La Clase RestTemplate - 3]
+
+** Y como bono, nuestro profesor amablemente nos explica la contraparte muy versátil de RestTemplate para uso con puntos de término imperativos *y* reactivos, link:http://www.profesor-p.com/webclient/[la clase WebClient]. ¡Gracias Profesor P!
+
+* Este mes tenemos otros dos artículos excelentes de link:https://twitter.com/josdem[José Morales] sobre link:https://projectreactor.io/[el proyecto reactor] y link:https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html[Spring WebFlux]:
+
+** Este artículo interesante cubre link:https://josdem.io/techtalk/spring/spring_webflux_internationalization_es/[internacionalización en Spring Webflux], un tema muy importante en nuestro mundo pequeño. También con link:https://github.com/josdem/spring-webflux-internationalization[código aquí!]
+
+** Y también nos comparte José un artículo útil sobre link:https://josdem.io/techtalk/spring/spring_webflux_web_testing_es/[Spring Webflux Testeando la Capa Web], con link:https://github.com/josdem/jugoterapia-webflux[el repo de código también]. ¡Testear y ganar! 💪😎
+
+* Aquí tenemos una presentación interesante por link:https://twitter.com/chuucksc[Carlos Salazar] de la reunión de Agosto del link:https://twitter.com/JUGBAQ[JUG de Barranquilla (Colombia)]:
+** El video: link:https://youtu.be/eZEI81kLWa4[Corriendo Spring Boot en K8s]
+** Los slides: link:https://docs.google.com/presentation/d/1a8kbDTnTXexM9769U63SBsNsiZQqwmxaet2aGPub-mk/edit#slide=id.g4c9700e2e9_0_1210[Spring K8s]
+** El repositorio de código: link:https://github.com/chuucks/coffee-service[coffee-service]
+
+* Y finalmente para la edición MUY EMOCIONANTE de Agosto, tenemos este video excelente de link:https://twitter.com/matoosfe[Matoosfe] sobre la link:https://youtu.be/RckoQheNaAg[creación de un proyecto Spring Boot]. ¡Disfrútalo!
+
+== En resumen
+
+Wauw, ¡qué mes! Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/springnoticias[@springnoticias en Twitter]
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+¡Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
