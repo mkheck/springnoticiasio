@@ -6,10 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Jul 2019 08:01:18 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 07:51:51 -0500</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, 26 de Agosto 2019</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-26-de-agosto-2019/</link>
+      <pubDate>Mon, 26 Aug 2019 07:51:51 -0500</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-26-de-agosto-2019/</guid>
+      <description>Bienvenidos otra vez la edición de Agosto de Spring Noticias en Español!!
+ Como siempre (!), envíame noticias de tus logros en @mkheck en Twitter, @springnoticias en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   Bienvenidos otra vez a mi amigo y hermano Richard Valdivieso con este discusión sobre como convertir tu aplicación Spring a una de Spring Boot.</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 23 de julio 2019</title>
