@@ -1,0 +1,58 @@
+---
+title: "Spring noticias en español, 26 de Septiembre 2019"
+date: 2019-09-25T18:56:47+02:00
+draft: true
+image: "img/SNES.png"
+---
+
+Bienvenidos a la edición de *Septiembre 2019* de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], link:https://twitter.com/springnoticias[@springnoticias en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Nuestro amigo link:https://twitter.com/geovanny0401[Geovanny Mendoza] escribió un excelente artículo sobre link:https://geovanny0401.blogspot.com/2019/09/testing-con-spring-boot.html[Testing con Spring Boot] en que él explica paso a paso como crear casos de testing con Spring Boot. ¡Es un tema muy importante!
+
+* Añadiendo a su impresionante coleción gratis de videos, link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] comparten estos videos sobre el camino a Java 12:
+
+** link:https://youtu.be/uWZiPm9yVAU[De Java 7 a Java 8]
+** link:https://youtu.be/72xRkITh8YU[De Java 8 a Java 9]
+** link:https://youtu.be/qU5hsdvp3eY[De Java 9 a Java 10]
+** link:https://youtu.be/TTPpvlQQCxU[De Java 10 a Java 11]
+** link:https://youtu.be/1ApTEuBhf_Q[De Java 11 a Java 12]
+
+* También de los link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] es este recurso *de pago* sobre Java en general. Parece muy interesante a mí, y es bueno soportar los esfuerzos de los equipos que contribuyan mucho a la comunidad. Para más información, visita este sitio: link:http://bit.ly/2PbJcce[Ebook: Java, el cambio es la única constante]
+
+* Este mes, contribuyente frecuente link:https://twitter.com/josdem[José Morales] nos trae no uno, no dos, pero _tres_ artículos excelentes! Aquí están:
+
+** link:https://josdem.io/techtalk/spring/spring_boot_hazelcast_es/[Spring Boot Con Hazelcast]
+** link:https://josdem.io/techtalk/spring/spring_boot_json_node_es/[Spring Boot y JsonNode]
+** link:https://josdem.io/techtalk/spring/spring_boot_h2_es/[Spring Boot y H2]
+
+¡Échale un vistazo!
+
+* Otra serie intensiva nos llega por link:https://twitter.com/chuucksc[Carlos Salazar] en link:https://twitter.com/CodesoltBlog[el blog Codesolt] sobre creando un Spring Boot REST API:
+
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-initializr/[Spring Boot REST 1/10 - Creando el proyecto desde Spring Initializr]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-mongodb/[Spring Boot REST 2/10 - Base de datos MongoDB embebida]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-repositorios-mongo/[Spring Boot REST 3/10 - Repositorios de Spring Boot para MongoDB]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-dataloader/[Spring Boot REST 4/10 - Guardando información en MongoDB al arranque de la aplicación]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-controllers/[Spring Boot REST 5/10 - Exponiendo endpoints mediante Controladores REST]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-basicauth/[Spring Boot REST 6/10 - Agregando seguridad básica de HTTP al proyecto]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-swagger/[Spring Boot REST 7/10 - Documentando del proyecto con Swagger 2]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-testing/[Spring Boot REST 8/10 - Pruebas de integración]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-empaquetando/[Spring Boot REST 9/10 - Ejecutando y empaquetando nuestra aplicación]
+** link:https://www.codesolt.com/tutoriales/springbootrest/springboot-rest-excepciones/[Spring Boot REST 10/10 - Manejo de excepciones y modificación de Status HTTP]
+
+¡Disfrútalos!
+
+== En resumen
+
+WAUW, ¡qué abundancia! Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/springnoticias[@springnoticias en Twitter]
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+¡Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
