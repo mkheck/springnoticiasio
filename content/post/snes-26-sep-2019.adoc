@@ -1,7 +1,7 @@
 ---
 title: "Spring noticias en español, 26 de Septiembre 2019"
-date: 2019-09-25T18:56:47+02:00
-draft: true
+date: 2019-09-26T08:56:47+02:00
+draft: false
 image: "img/SNES.png"
 ---
 
@@ -13,7 +13,7 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 
 * Nuestro amigo link:https://twitter.com/geovanny0401[Geovanny Mendoza] escribió un excelente artículo sobre link:https://geovanny0401.blogspot.com/2019/09/testing-con-spring-boot.html[Testing con Spring Boot] en que él explica paso a paso como crear casos de testing con Spring Boot. ¡Es un tema muy importante!
 
-* Añadiendo a su impresionante coleción gratis de videos, link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] comparten estos videos sobre el camino a Java 12:
+* Añadiendo a su impresionante colección gratuita de videos, link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] nos comparten estos videos sobre el camino a Java 12:
 
 ** link:https://youtu.be/uWZiPm9yVAU[De Java 7 a Java 8]
 ** link:https://youtu.be/72xRkITh8YU[De Java 8 a Java 9]
@@ -21,9 +21,9 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 ** link:https://youtu.be/TTPpvlQQCxU[De Java 10 a Java 11]
 ** link:https://youtu.be/1ApTEuBhf_Q[De Java 11 a Java 12]
 
-* También de los link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] es este recurso *de pago* sobre Java en general. Parece muy interesante a mí, y es bueno soportar los esfuerzos de los equipos que contribuyan mucho a la comunidad. Para más información, visita este sitio: link:http://bit.ly/2PbJcce[Ebook: Java, el cambio es la única constante]
+* También de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] es este recurso *de pago* sobre Java en general. Me pareció en lo personal muy interesante y es bueno soportar los esfuerzos de los equipos que contribuyan mucho a la comunidad. Para más información, visita este sitio: link:http://bit.ly/2PbJcce[Ebook: Java, el cambio es la única constante]
 
-* Este mes, contribuyente frecuente link:https://twitter.com/josdem[José Morales] nos trae no uno, no dos, pero _tres_ artículos excelentes! Aquí están:
+* Este mes, contribuyente frecuente link:https://twitter.com/josdem[José Morales] nos trae no uno, no dos, si no  _tres_ artículos excelentes! Aquí están:
 
 ** link:https://josdem.io/techtalk/spring/spring_boot_hazelcast_es/[Spring Boot Con Hazelcast]
 ** link:https://josdem.io/techtalk/spring/spring_boot_json_node_es/[Spring Boot y JsonNode]
@@ -48,7 +48,7 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 
 == En resumen
 
-WAUW, ¡qué abundancia! Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+WAUW, ¡demasiados artículos este mes! Es todo por esta edición, pero hay mucho más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
 
 * link:https://twitter.com/springnoticias[@springnoticias en Twitter]
 * link:https://twitter.com/mkheck[@mkheck en Twitter]
