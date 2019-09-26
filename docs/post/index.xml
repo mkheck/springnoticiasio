@@ -6,10 +6,21 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 Aug 2019 07:51:51 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2019 08:56:47 +0200</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, 26 de Septiembre 2019</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-26-de-septiembre-2019/</link>
+      <pubDate>Thu, 26 Sep 2019 08:56:47 +0200</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-26-de-septiembre-2019/</guid>
+      <description>Bienvenidos a la edición de Septiembre 2019 de Spring Noticias en Español!!
+ Como siempre (!), envíame noticias de tus logros en @mkheck en Twitter, @springnoticias en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Para esta edición, aquí tienes unos artículos muy interesantes   Nuestro amigo Geovanny Mendoza escribió un excelente artículo sobre Testing con Spring Boot en que él explica paso a paso como crear casos de testing con Spring Boot.</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 26 de Agosto 2019</title>
