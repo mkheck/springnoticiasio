@@ -1,6 +1,6 @@
 ---
 title: "Spring noticias en español, 29 de Octubre 2019"
-date: 2019-10-28T13:36:12+03:00
+date: 2019-10-29T06:36:12-05:00
 draft: false
 image: "img/SNES.png"
 ---
