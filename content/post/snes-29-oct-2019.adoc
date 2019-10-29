@@ -1,0 +1,39 @@
+---
+title: "Spring noticias en español, 29 de Octubre 2019"
+date: 2019-10-28T13:36:12+03:00
+draft: false
+image: "img/SNES.png"
+---
+
+Bienvenidos a la edición de *Octubre 2019* de Spring Noticias en Español!!
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], link:https://twitter.com/springnoticias[@springnoticias en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Empezamos este mes con dos artículos muy interesantes sobre Spring reactivo por nuestro amigo link:https://twitter.com/josdem[José Morales]:
+
+** link:https://josdem.io/techtalk/spring/spring_webflux_uri_validator_es/[Validando con Spring Webflux]
+** link:https://josdem.io/techtalk/spring/spring_webflux_webclient_headers_es/[Leyendo Headers con WebClient]
+
+* Continuamos con dos videos útiles de link:https://twitter.com/4sdevelopers[4SoftwareDevelopers] sobre el uso de Java con PL/SQL:
+
+** link:https://youtu.be/6BAWSyoYdko[Práctica PLSQL y Java - Parte 1]
+** link:https://youtu.be/utTb24WpLLo[Práctica PLSQL y Java - Parte 2]
+
+* Me contactó link:https://twitter.com/TheDonRaab[Don Raab] sobre la obra cumplida por link:https://twitter.com/hillmerch[Hillmer Chona] y link:https://twitter.com/carloschacin[Carlos Chacin] en traducir el sitio de link:https://www.eclipse.org/collections/es/index.html[las colecciones Eclipse]. ¡Bien hecho amigos!
+
+* Aquí tenemos un video del Meetup Virtual Octubre 2019 sobre CDC Testing, con link:https://twitter.com/EdduMelendez[Eddú Meléndez]: https://youtu.be/sIiPVX_s0FI ¡Disfrútalo!
+
+* También de Eddú, un poco de reconocimiento para los nuevos contribuyentes de Perú a los proyectos de Spring. ¡Felidades y bienvenidos a Verónica Vasquez, Marcel Amado, Jesús Ascama Arias, Luis Felipe Vega, Manuel Tejada, y Ebert Toribio!
+
+== En resumen
+
+Y eso está todo...por ahora. 😃 Pero hay muchos recursos más en la comunidad, quizás en tus manos! Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/springnoticias[@springnoticias en Twitter]
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+¡Ayúdame a extender tu voz y compartir tus conocimientos con otras! Hasta la próxima edición... 👋😃
