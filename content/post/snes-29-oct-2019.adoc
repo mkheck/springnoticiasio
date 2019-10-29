@@ -25,7 +25,7 @@ Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mk
 
 * Aquí tenemos un video del Meetup Virtual Octubre 2019 sobre CDC Testing, con link:https://twitter.com/EdduMelendez[Eddú Meléndez]: https://youtu.be/sIiPVX_s0FI ¡Disfrútalo!
 
-* También de Eddú, un poco de reconocimiento para los nuevos contribuyentes de Perú a los proyectos de Spring. ¡Felidades y bienvenidos a Verónica Vasquez, Marcel Amado, Jesús Ascama Arias, Luis Felipe Vega, Manuel Tejada, y Ebert Toribio!
+* También de Eddú, un poco de reconocimiento para los nuevos contribuyentes de Perú a los proyectos de Spring. ¡Felicidades y bienvenidos a Verónica Vasquez, Marcel Amado, Jesús Ascama Arias, Luis Felipe Vega, Manuel Tejeda, y Ebert Toribio!
 
 == En resumen
 
