@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://springnoticias.io/</loc>
-    <lastmod>2019-10-29T06:36:12-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-23T07:44:31-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://springnoticias.io/post/</loc>
-    <lastmod>2019-10-29T06:36:12-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-12-23T07:44:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-23-de-diciembre-2019/</loc>
+    <lastmod>2019-12-23T07:44:31-06:00</lastmod>
   </url>
   
   <url>
@@ -72,7 +75,6 @@
   <url>
     <loc>https://springnoticias.io/page/</loc>
     <lastmod>2019-01-05T17:23:09-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,12 +99,10 @@
   
   <url>
     <loc>https://springnoticias.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://springnoticias.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

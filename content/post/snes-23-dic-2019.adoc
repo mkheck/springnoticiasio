@@ -1,0 +1,147 @@
+---
+title: "Spring noticias en español, 23 de Diciembre 2019"
+date: 2019-12-23T07:44:31-06:00
+draft: false
+image: "img/arbol_de_navidad.gif"
+---
+
+¡Bienvenidos a la edición especial de *Diciembre 2019* de Spring Noticias en Español! 
+
+Como siempre (!), envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], link:https://twitter.com/springnoticias[@springnoticias en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Para esta edición, aquí tienes unos artículos muy interesantes
+
+* Nuestro buen amigo link:https://twitter.com/josdem[José Morales] nos comparte muchos artículos excelentes para la edición de navidad!
+
+** Este buen artículo sobre link:https://projectreactor.io/[el proyecto reactor] y link:https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html[Spring WebFlux]:
+
+*** link:https://josdem.io/techtalk/spring/spring_boot_sse_es/[Spring WebFlux y Server-sent Events]
+
+*** y el repositorio de código: https://github.com/josdem/spring-boot-sse
+
+** El próximo artículo es sobre https://josdem.io/techtalk/spring/spring_boot_xml_schema_es/[Spring Boot y Esquemas XML] y demuestra como importar clases de XML en link:https://spring.io/projects/spring-boot[Spring Boot]
+
+** Y en conclusión, también de José es este artículo con más información sobre JAXB, con link:https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html[Spring WebFlux]: https://josdem.io/techtalk/spring/spring_webflux_jaxb_es/[Spring Webflux y JAXB]
+
+== Eventos
+
+Para planear tu 2020, estos son eventos _muy excelentes_ para que los consideres!
+
+* **26 de Abril de 2020**
++ 
+Mexico (CDMX)
++ 
+JavaUP
++ 
+http://www.javaup.org.mx/
++ 
+@javaup
++ 
+Jorge Vargas edivargas@gmail.com 
++ 
+Mirza Yael mirzayael1090@gmail.com
+
+* **25 de Mayo de 2020**
++
+Ecuador
++
+EcuadorJUG
++
+https://www.javaday.ec/
++
+@ecuadorjug
++
+Alberto Salazar alberto.salazar@ac-techsolutions.com
+
+* **29 de Junio de 2020**
++
+Rep Dominicana
++
+Java Dominicano
++
+https://jconfdominicana.org
++
+@javadominicano
++
+Eudris Cabrera eudris@gmail.com 
++
+Carlos Camacho
+
+* **5 y 6 de Julio de 2020**
++
+Colombia
++
+MedellinJUG, CaliJUG, BarranquillaJUG, y BogotaJVM
++
+http://www.jconfcolombia.org
++
+@acelopezco
++
+Alexis Lopez aalopez@gmail.com
+
+* **13 de Julio de 2020**
++
+Perú
++
+PeruJUG
++
+http://jconfperu.org/
++
+@perujug
++
+José Diaz jamdiazdiaz@gmail.com
+
+* **6-8 Julio 2020**
++
+España
++
+BarcelonaJUG
++
+http://www.jbcnconf.com/
++
+@jbcnconf, @barcelonajug
++
+Nacho Cougil
+
+* **3 de Septiembre del 2020**
++
+México
++
+GDLJUG y J4G
++
+https://javadevday.mx/
++
+@javadevdaymex
++
+Christian Gomez omar.christian@gmail.com
++
+Orlando Cano isc.orlando.cano@gmail.com
++
+Fernando Gonzalez fernando.gonzalez.isc@gmail.com
+
+* **Octubre 2020**
++
+Nicaragua
++
+JUG Nicaragua
++
+https://javanicaragua.org/
++
+@jugnicaragua
++
+Omar Berroterán omarberroteranlkf@gmail.com 
++
+Francisco Contreras
+
+== En resumen
+
+¡Qué año ha sido 2019! Por favor anota los eventos, planea asistir (¡espero que nos conozcamos/nos vemos allí!), y para revisar todas las noticias del año, visita las ediciones de _SNES_ de otros meses!
+
+Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíamelos! Mis datos de contacto son:
+
+* link:https://twitter.com/springnoticias[@springnoticias en Twitter]
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+¡Hasta la próxima edición y 2020! 👋😃🎄
