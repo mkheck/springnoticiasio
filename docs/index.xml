@@ -6,10 +6,21 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Dec 2019 07:44:31 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 17:24:16 -0500</lastBuildDate>
     
 	<atom:link href="https://springnoticias.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spring noticias en español, la primera edición de COVID-19 en 2020</title>
+      <link>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-la-primera-edici%C3%B3n-de-covid-19-en-2020/</link>
+      <pubDate>Wed, 22 Apr 2020 17:24:16 -0500</pubDate>
+      
+      <guid>https://springnoticias.io/post/spring-noticias-en-espa%C3%B1ol-la-primera-edici%C3%B3n-de-covid-19-en-2020/</guid>
+      <description>Bienvenidos a la primera edición de COVID-19 de Spring Noticias en Español.
+ Como siempre, envíame noticias de tus logros en @mkheck en Twitter, @springnoticias en Twitter, mark@losheckler.com, o mheckler@pivotal.io y los compartiré con la comunidad.
+ Unas notas, unos recursos No necesito decirles que los tiempos estén dificiles para muchas personas y quizás para ti. Tenemos que unirnos, mantenernos seguros, y esperar para los tiempos más sanos y seguros. Abrazos virtuales mis amigos y hermanos.</description>
+    </item>
     
     <item>
       <title>Spring noticias en español, 23 de Diciembre 2019</title>
