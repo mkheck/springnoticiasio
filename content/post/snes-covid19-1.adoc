@@ -11,9 +11,9 @@ Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck
 
 == Unas notas, unos recursos
 
-No necesito decirles que los tiempos estén dificiles para muchas personas, y quizas para ti. Tenemos que unir, mantenernos seguros, y esperar para los tiempos más sanos y seguros. Abrazos virtuales mis amigos y hermanos.
+No necesito decirles que los tiempos estén dificiles para muchas personas y quizás para ti. Tenemos que unirnos, mantenernos seguros, y esperar para los tiempos más sanos y seguros. Abrazos virtuales mis amigos y hermanos.
 
-Hasta esos tiempos, podemos compartir recursos para pensar, crecer nuestros cerebros, y posiblemente distraernos un poco de las noticias. Aquí tenemos unos pocos:
+Hasta esos tiempos, podemos compartir recursos para pensar, analizar, y posiblemente distraernos un poco de las noticias. Aquí tenemos unos pocos:
 
 * El incomparable link:https://twitter.com/jamdiazdiaz[José Díaz] nos comparte un artículo muy interesante, con muchos detalles, sobre link:http://blog.joedayz.pe/2020/03/spring-boot-thymeleaf-bootstrap.html[cómo construir una aplicación con Spring Boot, Thymeleaf, y BootStrap]
 
