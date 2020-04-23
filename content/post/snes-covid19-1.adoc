@@ -1,0 +1,34 @@
+---
+title: "Spring noticias en español, la primera edición de COVID-19 en 2020"
+date: 2020-04-22T17:24:16-05:00
+draft: false
+image: "img/dr-who-the-empty-child.jpg"
+---
+
+Bienvenidos a la primera edición de COVID-19 de Spring Noticias en Español.
+
+Como siempre, envíame noticias de tus logros en link:https://twitter.com/mkheck[@mkheck en Twitter], link:https://twitter.com/springnoticias[@springnoticias en Twitter], mailto:mark@losheckler.com[], o mailto:mheckler@pivotal.io[] y los compartiré con la comunidad.
+
+== Unas notas, unos recursos
+
+No necesito decirles que los tiempos estén dificiles para muchas personas, y quizas para ti. Tenemos que unir, mantenernos seguros, y esperar para los tiempos más sanos y seguros. Abrazos virtuales mis amigos y hermanos.
+
+Hasta esos tiempos, podemos compartir recursos para pensar, crecer nuestros cerebros, y posiblemente distraernos un poco de las noticias. Aquí tenemos unos pocos:
+
+* El incomparable link:https://twitter.com/jamdiazdiaz[José Díaz] nos comparte un artículo muy interesante, con muchos detalles, sobre link:http://blog.joedayz.pe/2020/03/spring-boot-thymeleaf-bootstrap.html[cómo construir una aplicación con Spring Boot, Thymeleaf, y BootStrap]
+
+* También tenemos un artículo excelente de link:https://twitter.com/geovanny0401[Geovanny Mendoza] para el grupo link:https://javanicaragua.org/[Java User Group Nicaragua] demostrando link:https://javanicaragua.org/2020/03/29/aplicacion-de-spring-boot-con-mysql-y-docker/[cómo crear una aplicación Spring Boot con MySQL y Docker]
+
+* Y de link:https://twitter.com/arquitectojava[Cecilio Alvarez]: el profesor ofrece link:https://cursos.arquitecturajava.com/courses/category/Gratuitos[varios cursos gratuitos], incluyendo unos sobre Spring. ¡Échale un vistazo!
+
+== En resumen
+
+Es todo por ahora, amigos mios. Si te gustaría ver tus proyectos/noticias en este boletín y ayudar a tus compañeros, envíame tus recursos. Mis datos de contacto son:
+
+* link:https://twitter.com/springnoticias[@springnoticias en Twitter]
+* link:https://twitter.com/mkheck[@mkheck en Twitter]
+* mailto:mark@losheckler.com[]
+* mailto:mheckler@pivotal.io[]
+
+Ayúdame a extender tu voz y compartir tus conocimientos con otras. Hasta la próxima edición, con muchos abrazos virtuales.
+
